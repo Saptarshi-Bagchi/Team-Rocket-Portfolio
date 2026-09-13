@@ -1,12 +1,12 @@
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import Hero from './components/Hero'
+import LandingPage from './components/LandingPage'
 
 function App() {
   return (
     <div>
       <Navbar />
-      <Hero />
+      <LandingPage />
       <Footer />
     </div>
   )
