@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center max-w-full mx-auto px-6">
         <div className="flex items-center gap-2">
         <img src={logo} alt="Team Rocket Logo" className="h-15 w-auto py-2"/>
-        <span className="text-neutral-300 font-bold text-xl">TEAM ROCKET</span>
+        <span className="text-neutral-300 font-bold text-xl">TEAM ROCKETT</span>
         </div>
         <ul className="flex gap-6 list-none">
           <li><a className="font-bold text-sm text-neutral-300 hover:text-white transition-colors" href="#">HOME</a></li>
